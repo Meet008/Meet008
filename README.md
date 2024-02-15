@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently learning **Full-stack development**
+- 🔭 I’m currently working on **Acedamic projects**
 
 - 🌱 I’m currently learning **NodeJS, NextJS, Typescript**
 
