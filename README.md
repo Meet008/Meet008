@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Acedamic projects**
 
-- 🌱 I’m currently learning **NodeJS, NextJS, Typescript**
+- 🌱 I’m currently learning **NextJS, Typescript & ReactJS **
 
 - 👯 I’m looking to collaborate on **Software Developer Roles**
 
