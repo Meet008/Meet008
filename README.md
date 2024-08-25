@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on my **Personal Projects**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NextJS, and SpringBoot**
 
 - 👯 I’m looking to collaborate on **Software Developer Roles**
 
