@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on my **Personal Projects**
+- 🔭 I’m currently working on my **Personal Projects.**
 
 - 🌱 I’m currently learning **NextJS**
 
