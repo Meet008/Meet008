@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://meet008.github.io/MeetPORT/](https://meet008.github.io/MeetPORT/)
 
-- 📫 Reach me at my email - **meetchothani008@gmail.com.**
+- 📫 Reach me at my email - **meetchothani008@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
