@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👯 I’m looking to collaborate on **Software Developer Roles**
+- 👯 I’m looking to collaborate on **Software Developer Roles.**
 
 - 👨‍💻 All of my projects are available at [https://meet008.github.io/MeetPORT/](https://meet008.github.io/MeetPORT/)
 
