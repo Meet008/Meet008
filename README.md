@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Meet Chothani</h1>
+<h1 align="center">Hi 👋, I'm Meet Chothani.</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 
 <img align="right" alt="code" width="400px" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
